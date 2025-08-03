@@ -28,9 +28,6 @@ Blackhat | No Recovery | No Traces
 
 📁 kalidestroysystem.exe
 
-yaml
-Copy
-Edit
 
 ##  Note
 
@@ -41,8 +38,3 @@ Built for annihilation — no recovery, no negotiation, no mercy.
 
 
 
-
-
-
-
-Ask ChatGPT
